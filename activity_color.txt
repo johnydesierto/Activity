@@ -1,0 +1,137 @@
+
+<html>
+<head>
+</head>
+
+<body>
+<center>
+
+
+<TABLE BORDER=1 width=600 height=600 >
+<tr>
+<b>6
+
+<td bgcolor="red" </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+</tr>
+
+<td bgcolor="red"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="red"> </td>
+</tr>
+
+<td bgcolor="red"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="red"> </td>
+</tr>
+
+<td bgcolor="red"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="red"> </td>
+</tr>
+
+<td bgcolor="red"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="black"> </td>
+<td bgcolor="black"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="red"> </td>
+</tr>
+
+<td bgcolor="red"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="black"> </td>
+<td bgcolor="black"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="red"> </td>
+</tr>
+
+<td bgcolor="red"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="sky blue"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="red"> </td>
+</tr>
+
+<td bgcolor="red"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="green"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="red"> </td>
+</tr>
+
+<td bgcolor="red"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="yellow"> </td>
+<td bgcolor="red"> </td>
+</tr>
+
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+<td bgcolor="red"> </td>
+</tr>
+
+
+</body>
+
+</html>
