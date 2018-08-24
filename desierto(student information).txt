@@ -1,0 +1,101 @@
+<html>
+<head>
+</head>
+
+<form>
+
+<body>
+<table>
+<table width=900 height=700 align="center">
+<h1 align="center">STUDENT INFORMATION</h1>
+
+
+<br><br>
+<b>
+FIRSTNAME	     &nbsp &nbsp<input type="text" > &nbsp
+LASTNAME             &nbsp &nbsp<input type="text" > &nbsp
+AGE                  &nbsp &nbsp <input type="text"> &nbsp
+
+GENDER &nbsp
+<input type="radio" name="gender" value="male">MALE
+<input type="radio"  name="gender" value="female">FEMALE
+ 
+<br><br>
+COURSE &nbsp &nbsp &nbsp &nbsp &nbsp
+
+<select>
+
+<option></option>
+<option value="BSIT">BSIT</option>
+<option value="ACT">ACT </option>
+<option value="BSCS">BSCS </option>
+
+</select>
+
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp YEAR LEVEL
+<select>
+
+<option></option>
+<option value="1st">1st</option>
+<option value="2nd">2nd </option>
+<option value="3rd">3rd </option>
+
+</select>
+ 
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbspSY &nbsp 20
+<select>
+<option></option>
+<option value="18">18</option>
+<option value="19">19</option>
+
+</select>
+
+  &nbsp  &nbspTO &nbsp &nbsp 20
+
+<select>
+
+<option></option>
+<option value="19">19</option>
+<option value="20">20</option>
+
+</select>
+
+&nbsp &nbsp &nbsp &nbsp TERM 
+<select>
+<option></option>
+<option value="1st sem">1st sem</option>
+<option value="2nd sem">2nd sem</option>
+</select>
+<br><br>
+ADDRESS	&nbsp&nbsp&nbsp&nbsp &nbsp &nbsp<input type="text" > &nbsp
+STATUS	&nbsp&nbsp&nbsp &nbsp &nbsp &nbsp&nbsp
+
+<select>
+<option></option>
+<option value="SINGLE">SINGLE</option>
+<option value="MARRIED">MARRIED</option>
+</select>
+
+&nbsp DATE OF BIRTH      &nbsp&nbsp  <input type="date">
+
+<br><br>
+GUARDIAN   &nbsp &nbsp &nbsp<input type="text" > &nbsp
+RELIGION   &nbsp&nbsp&nbsp &nbsp<input type="text" > &nbsp
+CONTACT NUMBER  &nbsp&nbsp&nbsp &nbsp<input type="text" > &nbsp
+
+<h3 align="center">
+
+<br><br>
+<br>
+<textarea cols=130 rows=15 >  </textarea >
+<br><br><input type="submit" value="SUBMIT">
+
+</h3>
+
+
+
+</form>
+</table>
+
+</body>
+</html>
