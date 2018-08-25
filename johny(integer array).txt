@@ -1,0 +1,36 @@
+
+package desierto;
+
+import java.util.Scanner;
+public class Desierto {
+
+    
+    public static void main(String[] args) {
+     
+        int num;
+     
+       Scanner input = new Scanner(System.in);
+       
+       System.out.println("Input how many number u want to input: ");
+       num=input.nextInt();
+       
+       int[] a = new int[num];
+            
+           System.out.println("Enter now a number: ");
+           for (int b=0; b<num; b++)
+           {
+           a[b]=input.nextInt();
+           }
+       System.out.println("\n");
+       System.out.println("The number u input are:\n");
+       System.out.print("**************************\n");
+        for (int b=0; b<num; b++)
+        {          
+           System.out.print(" "+ a[b] +"  ");      
+        }
+        System.out.print("\n**************************\n");  
+        System.out.print("\n\n");
+    }  
+    
+    
+}
